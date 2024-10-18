@@ -1,7 +1,7 @@
 {
   "name": "SumStory",
   "short_name": "SumStory",
-  "start_url": "/",
+  "start_url": "/sumstory.app",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
@@ -11,5 +11,24 @@
       "platform": "play",
       "id": "com.sumstoryapp"
     }
-  ]
+  ],
+  "icons": [
+  {
+    "src": "https://raflymaleo.github.io/sumstory/icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+    "src": "https://raflymaleo.github.io/sumstory/icon-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+],
+  "screenshots": [
+  {
+    "src": "https://raflymaleo.github.io/sumstory/screenshot.png",
+    "sizes": "640x800",
+    "type": "image/png"
+  }
+]
 }
