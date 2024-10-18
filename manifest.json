@@ -28,7 +28,9 @@
   {
     "src": "https://raflymaleo.github.io/sumstory/screenshot.png",
     "sizes": "640x800",
-    "type": "image/png"
+    "type": "image/png",
+    "form_factor": "narrow",
+    "label": "Application"
   }
 ]
 }
